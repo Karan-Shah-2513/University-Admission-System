@@ -50,7 +50,7 @@ $result = mysqli_query($con,"SELECT * FROM t_user WHERE s_id='".$getid."'");
                 <tr>
                  <td style="width:3%;"><img src="./images/Logo-T.gif" width="50%"> </td>
                  <td style="width:8%;"><center><font style="font-family:Arial Black; font-size:20px;">
-                    CENTURION UNIVERSITY OF TECHNOLOGY AND MANAGEMENT, BHUBANESWAR - 752050, ODISHA</font></center>
+                 SARDAR PATEL INSTITUTE OF TECHNOLOGY, MUMBAI</font></center>
                 
                 <center><font style="font-family:Verdana; font-size:18px;">
                     Phone : (0674)2492496, Fax : (0674)2490480
@@ -59,7 +59,7 @@ $result = mysqli_query($con,"SELECT * FROM t_user WHERE s_id='".$getid."'");
                 <br>
                 <br>
                 <center><font style="font-family:Arial Black; font-size:20px;">
-                   CUEE ADMIT CARD (2016-17)</font></center>
+                   S.P.I.T ADMIT CARD (2016-17)</font></center>
                 </td>
                     <td colspan="2" width="3%" >
                         <?php
@@ -81,7 +81,7 @@ $result = mysqli_query($con,"SELECT * FROM t_user WHERE s_id='".$getid."'");
                  <tr>
                  <td style="width:4%;"> <font style="font-family: Verdana;">Date</font> </td>
                     <td style="width:8%;" colspan="3"><font style="font-family: Verdana; font-weight: bold">
-                        10th May 2016, Afternoon Session</font> </td>
+                        10th May 2023, Afternoon Session</font> </td>
                  </tr>
                  
                  <tr>
@@ -103,7 +103,7 @@ $result = mysqli_query($con,"SELECT * FROM t_user WHERE s_id='".$getid."'");
                  </tr>
                  
                  <tr>
-                     <td style="width:4%;"> <font style="font-family: Verdana;">Exam Center  </font> </td>
+                     <!-- <td style="width:4%;"> <font style="font-family: Verdana;">Exam Center  </font> </td>
                     <td style="width:8%;" colspan="3">
                        <font style="font-family: Verdana; font-weight: bold"> Centurion Institute of Technology<br>
                         At - Ramchandrapur<br>
@@ -112,7 +112,7 @@ $result = mysqli_query($con,"SELECT * FROM t_user WHERE s_id='".$getid."'");
                         Odisha, India<br>
                         Phone: (0674)2492496<br>
                         </font>
-                    </td>
+                    </td> -->
                  </tr>
                 <?php
                 }

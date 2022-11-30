@@ -47,16 +47,16 @@ $result = mysqli_query($con,"SELECT * FROM t_user WHERE s_id='".$_SESSION['user'
                  <td style="width:3%;"><br><br><img src="./images/Logo-T.gif" width="50%"> </td>
                  <td style="width:8%;"><center><font style="font-family:Arial Black; font-size:20px;">
                      <br><br>
-                    CENTURION UNIVERSITY OF TECHNOLOGY AND MANAGEMENT, BHUBANESWAR - 752050, ODISHA</font></center>
+                    SARDAR PATEL INSTITUTE OF TECHNOLOGY, MUMBAI</font></center>
                 
                 <center><font style="font-family:Verdana; font-size:18px;">
-                    Phone : (0674)2492496, Fax : (0674)2490480
+                    
                     </font></center>
                 
                 <br>
                 <br>
                 <center><font style="font-family:Arial Black; font-size:20px;">
-                    ADMISSIONS (2016-17)</font></center>
+                    ADMISSIONS (2022-2023)</font></center>
                 </td>
                     <td colspan="2" width="3%" >
                    <?php
